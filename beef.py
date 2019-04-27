@@ -151,12 +151,9 @@ def check():
         sys.exit(1)
     try:
         print GHT
-        print " [*] Akun Sedang Diretas: %s" % (email)
-        print
-        print " [*] Total List Lu :" , len(passwords), "passwords"
-        print
+        print " [*] Account to crack : %s" % (email)
+        print " [*] Loaded :" , len(passwords), "passwords"
         print " [*] Cracking, please wait ..."
-        print
     except KeyboardInterrupt:
         print "\n [*] Exiting program ..\n"
         sys.exit(1)
