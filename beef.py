@@ -80,7 +80,6 @@ print "My Github :https://github.com/BajinganCyberArmy"
 print
 print "Contact :Fb((Fatur CloverID))Wa((0895360561400))"
 print
-
 email = str(raw_input("(@)(@)===D~~ Masukan ID Korban : "))
 print
 passwordlist = str(raw_input("(@)(@)===D List Password.txt : "))
