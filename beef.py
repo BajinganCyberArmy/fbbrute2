@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!usr/bin/env python2.7
 #
 #
 #  _    _            _               _____           
@@ -14,9 +14,7 @@ import random
 import mechanize
 import cookielib
 
-#welcome 
-def welcome():
-	wel = """
+print """
         +=========================================+                 Spesial Thanks :
         |..........{+}Facebook Crack{+}...........|   -Shofian -Mr.Ruxhan -W1T4 -TH1N1
         +-----------------------------------------+   -./Mr.Kexz -M1MK.N4N -404 Not Found
@@ -28,7 +26,7 @@ def welcome():
         +-----------------------------------------+\n\n
 
           \033[90;1m Mencoba Berkarya  \033[91;1m
-          Powered by:\033[97m B4J1N64N T3RH0RM4T 
+           Powered by:\033[97m B4J1N64N T3RH0RM4T 
       """
 print "Gunakan sebaiknya"
 print
