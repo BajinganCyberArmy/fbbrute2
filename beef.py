@@ -15,18 +15,17 @@ import mechanize
 import cookielib
 
 print """
-        +=========================================+                 Spesial Thanks :
-        |..........{+}Facebook Crack{+}...........|   -Shofian -Mr.Ruxhan -W1T4 -TH1N1
-        +-----------------------------------------+   -./Mr.Kexz -M1MK.N4N -404 Not Found
-        !------------#Author: Mr.Fat--------------!   -King Salman Mr.X -Mr.057 -Clear
-        !---------Contact :0895360561400----------!
- 	      !----ThanksTeam :B4J1N64N CYBER ARMY------!
-        +=========================================+
-        |..........{B4J1N64N T3RH0RM4T}...........|
-        +-----------------------------------------+\n\n
-
-          \033[90;1m Mencoba Berkarya  \033[91;1m
-           Powered by:\033[97m B4J1N64N T3RH0RM4T 
+        +=========================================+  Spesial Thanks :
+        |..........{+}Facebook Crack{+}...........|  -Shofian 
+        +-----------------------------------------+  -Mr.Ruxhan
+        !------------#Author: Mr.Fat--------------!  -Mr.057
+        !---------Contact :0895360561400----------!  -King Salman
+ 	!----ThanksTeam :B4J1N64N CYBER ARMY------!  -Mr.X -Mr.Ruxhan 
+        +=========================================+  -M1MK.N4N
+        |..........{B4J1N64N T3RH0RM4T}...........|  -./Mr.Kexz
+        +-----------------------------------------+\n\n  -W1T4 -Mr.F47
+                \033[90;1m Mencoba Berkarya  \033[91;1m
+               Powered by:\033[97m B4J1N64N T3RH0RM4T 
       """
 print "Gunakan sebaiknya"
 print
