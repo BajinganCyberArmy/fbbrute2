@@ -1,20 +1,32 @@
 #!usr/bin/python
-
-import sys
-import random
-import mechanize
-import cookielib
-
-
-GHT = '''
-'''
-  print '''#  _    _            _               _____           
+#
+#
+#  _    _            _               _____           
 # | |  | |          | |             |  __ \          
 # | |__| | __ _  ___| | _____ _ __  | |__) | __ ___  
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
 #          Hacking Tools by B4J1N64N T3RH0RM4T
+
+import sys
+import random
+import mechanize
+import cookielib
+
+#welcome 
+def welcome():
+	wel = """
+        +=========================================+                 Spesial Thanks :
+        |..........{+}Facebook Crack{+}...........|   -Shofian -Mr.Ruxhan -W1T4 -TH1N1
+        +-----------------------------------------+   -./Mr.Kexz -M1MK.N4N -404 Not Found
+        !------------#Author: Mr.Fat--------------!   -King Salman Mr.X -Mr.057 -Clear
+        !---------Contact :0895360561400----------!
+ 	      !----ThanksTeam :B4J1N64N CYBER ARMY------!
+        +=========================================+
+        |..........{B4J1N64N T3RH0RM4T}...........|
+        +-----------------------------------------+\n\n
+"""
                 \033[90;1m Mencoba Berkarya  \033[91;1m
           Powered by:\033[97m B4J1N64N T3RH0RM4T 
       """
