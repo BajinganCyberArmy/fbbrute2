@@ -65,8 +65,8 @@ print """
            #===================#\n\n
   
 
-             \033[90;1m Mencoba Berkarya  \033[09;1m
-       Created by:\033[96m B4J1N64N T3RH0RM4T 
+             \033[90;1m Mencoba Berkarya  \033[91;1m
+       Created by:\033[97m B4J1N64N T3RH0RM4T 
       """
 print "Gunakan sebaiknya"
 print
